@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../cloud_portal/front_end/app/src/dialogs/merge/merge.component.ts [nx_vms]'" />
+    <option name="defaultScopeName" value="File '.../cloud_portal/front_end/app/src/dialogs/merge/merge.component.ts [nx_vms]'" />
+    <option name="SEARCH_SCOPE" value="File '.../cloud_portal/front_end/app/src/dialogs/merge/merge.component.ts [nx_vms]'" />
   </component>
 </application>
