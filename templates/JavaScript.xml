@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log('$VAR$ -&gt;', this.$VAR$);$END$" description="console log" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
