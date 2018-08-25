@@ -12,8 +12,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.py</mask>
-    <mask>*.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
